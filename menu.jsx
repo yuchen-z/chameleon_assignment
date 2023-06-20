@@ -14,7 +14,7 @@ Prompt:
      take (that you come up with) and we'll help you pick a path that will highlight your strengths.
   3. Now, make improvements to the menu; in the end it should meet the prompt and be able to be used in at least a
      couple different use cases such as an Account picker, a searchable list of items, one step of a flow
-     to configure Alerting, etc... let us know with a 🥇 if you've checked the revision history
+     to configure Alerting, etc...
   4. For certain use cases we would want to sync the menu selection to the server. We have an abstraction for syncing called
      httpPatch. It can be used like this => httpPatch('user', { [`menu-state-${key}`]: {true,false} }). Where would this
      be included and how/where best to handle this (properties needing to be synced/loaded to the backend)?
