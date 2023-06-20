@@ -1,7 +1,9 @@
 /* 
 
-This is meant to be a focused, high signal ~hour. Assume that if we've asked about it it's important to us.
+Thanks for your interest in a Frontend engineering role at Chameleon. We're a solid and collaborative team that
+will always lend a helping hand. We prioritize asynchronousity in nearly all of our ways of working.
 
+This exercise is meant to be a focused, high signal ~hour. Assume that if we've asked about it it's important to us.
 
 Prompt:
   
