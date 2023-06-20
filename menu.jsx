@@ -27,7 +27,7 @@ Now put youself in PR review mode...
 
   1. Please provide a couple Pull Request comments/suggestions to the engineer who wrote the code
      in pr-1.js; assume you're codeowner for the project on GitHub.
-  1. Based on what you know from 1., how would you do this differently if you were
+  2. Based on what you know from 1., how would you do this differently if you were
      to make this component from scratch?
 
  */
