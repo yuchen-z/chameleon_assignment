@@ -1,19 +1,22 @@
 /* 
 
 Thanks for your interest in a Frontend engineering role at Chameleon. We're a solid and collaborative team that
-will always lend a helping hand. We prioritize asynchronousity in nearly all of our ways of working.
+  will always lend a helping hand. We prioritize asynchronousity in nearly all of our ways of working.
 
-This exercise is meant to be a focused, high signal ~hour. Assume that if we've asked about it it's important to us.
+This exercise is meant to be a focused, high signal ~hour. Assume that if we've asked about it it's important to us. We will 
+  evaluate your React skills, your general understanding of JavaScript, your creativity, organization, etc.
 
 Prompt:
   
   0. How are you today? 😊
-  1. Below are the parts of basic selection menu, but there are issues and it's too specific for the single
+  1. Below are the parts of a basic selection menu, but there are issues and it's too specific for the single
      current use case. We all more or less agree it's not that great and needs some attention. It should be
-     componentized/generalized so that other engineers on the team can use selection menus.
-  2. Please consider this menu implemetation and following numbered items and to ask a discerning question back
-     on the email thread that will help you mae a decision about which of two different options or paths to
-     take (that you come up with) and we'll help you pick a path that will highlight your strengths.
+     componentized/generalized so that other engineers on the team can use selection menus. We will evaluate your React
+     skills, your general understanding of JavaScript, your creativity, organization and clarity on communication
+  2. The following items (3,4,5) combined are intentionally sightly vague in the sense there’s often more than a single
+     possible/correct solution — a natural aspect of software engineering. Please consider possible implementation paths
+     you'd consider valid, and ask us a discerning question in the email thread outlining them. We’ll then help you
+     make a decision and pick a path that highlights your strengths.
   3. Now, make improvements to the menu; in the end it should meet the prompt and be able to be used in at least a
      couple different use cases such as an Account picker, a searchable list of items, one step of a flow
      to configure Alerting, etc...
