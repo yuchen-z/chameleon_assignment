@@ -15,8 +15,7 @@ Prompt:
      skills, your general understanding of JavaScript, your creativity, organization and clarity on communication
   2. The following items (3,4,5) combined are intentionally sightly vague in the sense there’s often more than a single
      possible/correct solution — a natural aspect of software engineering. Please consider possible implementation paths
-     you'd consider valid, and ask us a discerning question in the email thread outlining them. We’ll then help you
-     make a decision and pick a path that highlights your strengths.
+     you'd consider valid and pick the best one.
   3. Now, make improvements to the menu; in the end it should meet the prompt and be able to be used in at least a
      couple different use cases such as an Account picker, a searchable list of items, one step of a flow
      to configure Alerting, etc...
